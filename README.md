@@ -1,6 +1,6 @@
 ### Olá! Me chamo João Pedro, atualmente estudante de tecnologia!
 
-- Estudando frameworks Front-End e TypeScript
+- Estudando frameworks Front-End, TypeScript e Desenvolvimento mobile com Kotlin
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedr01&theme=dracula">
