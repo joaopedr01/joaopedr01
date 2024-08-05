@@ -1,7 +1,7 @@
 ### Olá! Me chamo João Pedro, atualmente estudante de tecnologia!
 
-- Estudando frameworks Front-End, TypeScript e Desenvolvimento mobile com Kotlin
-
+- Estudando Java com Spring. <br>
+Curriculo: https://jp--programacao.notion.site/Jo-o-Pedro-da-Silva-2a5a4558386e401499dab15f1912e510
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedr01&layout=compact&theme=dracula">
 </div>
